@@ -1,0 +1,497 @@
+29/04/2021
+============
+What is Java 8 fetaures?
+What are the features of Java?
+Why Java is used Mostly?
+What is meant by constructor?
+What is methodoverloading and overriding in Java?
+What is meant by abstraction?
+Steps to create JDBC Connection?
+servlet lifecycle?
+Thread lifecycle?
+Deamon thread?
+content in servlet?
+final vs finally vs finalize()?
+Types of exception in java?
+What is synchronization?
+What is meant by inheritance?
+What is menat by interface?
+File Manupulation in java?
+28/04/2021
+===========
+Can we override static methods in java?
+Can we override private methods in java?
+Difference between List and Set?
+What is meant by HashMap?
+What is meant by Polymorphism?
+Can we have constructor in abstarct class?
+Can we create object for abstarct class?
+What are the methods in java.lang.object?
+Write a program for sorting in java?
+Why main method is static ?
+Can we excute Java without main method()?
+30/04/2021
+=====================
+Life cycle of servlet?
+Implicit objects in JSP?
+What are the tags are available in Jsp?
+What we mention for primary for database column?
+What is meant by method overiding?
+What is meant by Exception Handling?
+What are the types of Exception Handling?
+What are the methods in java.lang.object?
+What is difference between == & equals()?
+What is meant by comparator and comparable?
+What is difference between String &  String Buffer?
+What is meant by autoboxing and auto unboxing?
+What are the oops concepts in Java?
+What is Java?
+What is Inheritance?
+What is Interface?
+How to secure your web application?
+What is the flow from springboot to angular?
+What is Spring?
+What is meant by ApplicationContext?
+What is BeanFactory?
+What are the scopes available In Spring?
+How  to create Custom exceptions in Java?
+What is meant By constructor?
+Why java cannot create object for abstarct class?
+Why Java doesnot Support multiple Inheritance?
+How many ways to create Thread in Java?
+What is Synchronization in Java?
+Why String class is Immutable?
+What is meant by mutable and Immutable ?
+Can we create private constructor?
+Can we create Object for private Constructor?
+How we can create Object for private constrcutor?
+What is drawback of private ?
+What are the access specifiers in Java?
+What is Hashing?
+What is meant by Collection?
+What is meant by collection & collections
+What is difference between list and set?
+What is meant by Map in java?
+05/04/2021
+====================
+What is oops?
+What is difference between HashMap and HashSet?
+What is difference between ArrayList and LinkedList?
+What is meant by singleton class?
+How we can create singleton class?
+What is meant by @Qualifier?
+What is meant by @Springboot application?
+What is internal implementation of Hashmap?
+What is meant by ArrayList and Vector?
+What is meant by lamda expression?
+What is Nan() function in JS?
+What is GroupBy function in Oracle?
+What is differencce Union and UnionAll?
+What are the JSP implicit objects?
+What is expression Tag in JSP?
+How we connect to database in springboot?
+What is method overriding and method overloading?
+What is polymorphism?
+What is meant by abstarction?
+What is the difference between spring and springboot?
+What is meant by ORDER BY in Oracle?
+What is differece between procedures and functions?
+What is difference == and .equals() method?
+What is @Bean?
+What is @value?
+What is serilization and deserilzation?
+what  is difference between ListItertor and Iterator?
+what is difference comparable and  comparotor ? 
+Can we create object for Interface?ans:: No
+
+8/05/2021  (Genisys) 
+================
+What is Instance variables in Java?
+How You Connect db in SpringBoot?
+What is difference between @restcontroller and @controller?
+How we access static variable In Java?
+What oops concepts are used in Your Project?
+How we delete record in DB?
+What are the restapi methods in used project?
+What is meant by abstarct class?
+What build tool is used in your project?
+What version of springboot used in your project?
+What version of java is used in your project?
+Rate your self in Java?
+What collections are used in your Project?
+Why you used HashMap what is specific reason to implememt HashMap?
+What are the dependencies used in your project?
+When we get ArrayIndexOutOfBound Exception?
+When we get NullPointerException?
+
+What are the Http Status Codes are used in springboot?
+What is meant by apache-commons api?
+What is meant by exception Handling?
+How to handle exceptions in springboot?
+What is abstract keyword?
+What is static keyword?
+How to secure your webapplication?
+When we use patch and when we use put?
+How to interacting Angular  to Sprinboot?
+What is meant Advice?
+SDLC?
+What are components in Angular?
+What are services in Angular?
+
+Quest interview questions  dt:8-05-2021  
+======================================
+1.What is  @SpringBootApplication?
+2.what is @EnabledAutoConfiguration?
+3.What is @Configuration?
+4.What is @ComponentScan?
+5.How to write custom exceptions in SpringBoot?
+6.Which is better for configuration Properties file or YML?
+7.How to disable AutoConfiguration?
+8.How to packaging SpringBootApplication in jar or war?
+9.How to run SpringBoot Application is commandLine?
+10.What is Interface?
+11.Diff b/w Spring and SpringBoot?
+12.How to change server port in SpringBoot?
+13.What are directives in Angular?
+14.What are components in Angular?
+15.What is lazy loading in Angular?
+16.What are filters in Angular?
+17.What are Interceptors in Angular?
+16.What is meant by routing in Angular?
+17.How to define Bean in Spring?
+18.What are the security classes used in your project?
+19.What is static keyword in java?
+20.What is static block?
+21.How to add external server in spring boot applicaition?
+22.How to deploy spring boot application?
+23.What is meant spring applicaiton.run?
+24.How to define class as REST?
+25.How you do intergration Testing is SpringBoot?
+26.How to access ServletContext and ServletConfig objects in SpringBoot?
+
+11/05/2021  
+====================
+1.What is meant by Comparable and Compartor?
+2.What is default pacakage in Java?
+3.What is Exception hirearchy?
+4.What is Super class of Exception?
+5.How to connect to JDBC steps?
+6.In While(rs.next) cursor should come first postion what we have to Use?
+7.What is meant by Interface?
+8.How to call Stored Procedures in Java?
+9.How to remove duplicates in a List/array Program in single statement?
+10.What are the default class methods?
+11.If we have Two interface I1 and I2 in I1 we have m1() and I2 we have m1() can we implents I1,I2 in ImplClass?
+12.try(10/0) and catch(ArithmeticException){} catch(FileNotFoundException){} which exception raises?
+13.What is covirant Polymorphism?
+14.How to pass request data to nextpage using JS?
+15.Why Notify() and NotifyAll() methods are available in Default class?
+16.We have Exception in child class (ArithmeticException)  parent class (FileNotFoundException) ?what ans?
+17.ListIterator and Iterator?
+18.What is the nature of Interface?
+
+20/05/2021 Ather 
+===============
+Why use Oracle DB in ur Project?
+Did You Involved in Deployment Phase?
+Write a program to print 1-100 if multiple of 3 print fruit if multiple of 8 print salad if multiple of 3&8 print Fruits Salad?
+What server did you used in project?
+who will deploy your application?
+20/05/2020   capgemini  selected
+==============
+What is difference between abstarct class and Interface?
+Explain about Java 8 features?
+What is the difference between unique and primary?
+What is difference between JPARepository and CrudRepository?
+Which Repository will extends which repo?
+What is Annotation of commit and Rollback automatically in transaction?
+What is difference between JAX-WS and JAX-JERSEY?
+What is Path varaiable?
+What is @SpringBootApplication?
+What is Unit Testing?
+What is annotation is used for Repository Layer?
+What is the Annotation for primary key ?
+What is difference between @component and @Controller?
+What is difference between @Controller and @RestController?
+What is URL should be metioned when we use pathvariable?
+What is Collections?
+Which collection is used for insertion order and doesnot allow duplicates?
+Which Collection is used for key,value pair in insertion order?
+Which collection is used for insertion order and doesnot allow duplicates ,should be thread safe?
+Which collection is used for  key,value pair insertion order and doesnot allow duplicates ,should be thread safe?
+What is concrete methods and defaultmethods?
+Can we implement abstarct methods in abstarct class?
+What are the three annotations used in Testing two test three phases of testing in springboot?
+Select employeename ,managers count in table write SQL Query?
+How to define annotation for foreign key?
+What are the scopes available in Springboot Application?
+How to read properties file in springboot?
+Which file is better for application.properties or YML file?
+Which is preffered file is used in springboot?
+Does Interface has constrctor? Does Abstract class has constructor?
+We running springboot app which annoation is used to run?
+What is the build tool is used?
+If we the incoming request should to create multiple objects which scope should use? 
+
+ 21/05/2021 TCS 
+=============
+1)What is meant by oop?
+2)What is difference between abstract class and Interface;
+3)How many ways to create Thread class?
+4)What is difference between List and Set?
+5)What is difference between ArrayList and LinkedList?
+6)What is the Functional Interface?
+7)What is @Functional Interface?
+8)What is difference between RestController and @RestController?
+9)What the properties you place in properties file two store data in to two tables at a time?
+10)What is Spring Boot Actuator?
+11)What is Spring Bean?
+12)What is Life Cycle of Spring Bean?
+13)What is annotation used for repository layer?
+14)What is annotation is used in service Layer?
+15)What is configuration ?
+16)What is @AutoConfiguration?
+17)What is Advice Class?
+18)What is @Exception Handler
+14)How You Inject Data between Service to controller?
+15)How you define controller class?
+16)How You define service class?
+17)What is Spring boot stater dependency?
+18)What is maven?
+19)How You make project as war?
+20)How You create SpringBoot Aplication?
+21)How You Run Springboot application?
+22)What are the commands of maven ?
+23)How you test the EndPoint?
+24)If the two methods are get in cotroller class how test one end point based on other end point?
+25)how Yo how you create end point?
+26)How You test End Point?
+27)What are the Status codes?
+28)What is meant by 300 Status code?
+29)What is polymorphism?
+30)What is Encapsulation?
+31)Thread Life Cycle?
+32)How You make class as synchronized class?
+33)What is Runnable?
+34)How you connect db?
+35)What is @RequestBody?
+36)What is @ResponseBody?
+37)What is @Query annotation?
+38)Who You write custom Queries in Repository Layer?
+39)What is meant by REST?
+40)What is meant by microservice?
+41)What is meant by webservices?
+42)What is difference between unique and primary?
+43)What is @Entity?
+44)What is @Id?
+45)What is difference between GroupBy and OrderBy?
+46)What is Cursors?
+47)What is Procedures & functions?
+48) How you drop a table?
+49)What is meant by truncate?
+50)What is difference between truncate and drop?
+51)How You take backup table in oracle?
+52)I want to fetch the data from two tables if two tables are same values are  different how we can differentiate?
+53)What is @Value annotation?
+54)What is @SpringBoot Application?
+55)How you Secure Your Webapplication?
+56)What is Map?
+56)What is HashMap?
+57)What is multiple Inheritance?
+58)What are the HTTP Methods?
+59)What is the @RequestMapping?
+58)What @GetMapping?
+59)how you add mandatory column in POSTMAN?
+60)What is JWT?
+61)How you add Swagger?
+62)What is Swagger UI?
+63)How you Create Repository?
+64)How You Create Model Class?
+66)What are Security Classes?
+67)What is raw data?
+68)What is @pathvariable?
+69)How you define @varaiable value in URL?
+70)What is @Repository?
+71)What is @Service?
+72)Can we implement abstarct methods in abstarct class?
+73)What is streams?
+74)What is parallel stream?
+75)Why Functional Interface having only one method?
+76)What is meant by Triggers?
+77)Scopes in Spring?
+78)What is differnce between functional interface and Normal Interface?
+79)What happens If we declare @Functional Interface on top of Interface?
+80)What is Lambda Expression?
+81)How You define Lambda Expression?
+82)What is meant by synchronization?
+83)What are synchronized collections?
+84)What are non synchronized collections?
+85)What is comparator?
+86)What is the use of Lambda Expressions?
+87)What is meant by code quality?
+88)What is Unit Testing?
+89)How you write efficient Code?
+90)What is AJILE?
+91)Features of AJILE?
+92)What is JIRA?
+93)What build tool used in your Project?
+94)Java 8 Fetaures 
+95)How to retrive count of students in DB write SQL QUERY?
+96)How You Connect Backed to Frontend?
+97)What is @CrossOrigin?
+98)@Data
+99)What Annotations used in springboot?
+100)What YML and Application.properties
+101)What is Observable?
+102)What is Promise?
+103)How You create Custom Directives?
+104)What are the types Of Directives?
+105)What are the services in Angular?
+106)What is dependency Injection?
+107)What is HttpClient?
+108)What is rxjs?
+109)What is subscribe and error?
+110)What are the types of Forms?
+111)What are the Reactive Forms?
+112)What is meant by FormsModule?
+113)What are types of Binding?   
+114)How You can Change the Port in angular? ng server --port 4500
+115)How you can change port in springboot? server.port=8081
+116)What is @Input ?
+117)What is @Output?
+118)How you can communicate with two components?
+119)How you validate Your Form?
+120)How you install third party libraries?
+121)how you retrive data from service to component?
+122)What pattern used in your project?
+
+
+VIRTUSA 27-05-2021
+===========================
+1)What are the OOPS?
+2)What is Meant by Thread?
+3)What is difference between ArrayList and LinkedList?
+4)What is Constructor?
+5)What is Inheritance?
+6)What is Interface?
+7)What is Polymorphism?
+8)what is Encapsulation?
+9)what is difference between Exception and Error?
+10)How we can Handle Exceptions
+11)What is Final Keyword?
+12)What we can Handle Null Pointer Exception?
+13)How we can Write Custom Exception?
+14)What are the Collection?
+15)Difference between Set and List?
+16)What is HashMap?
+17)How many Ways to create Object?
+18)How many ways to Create Thread?
+19)What is Runnable Interface?
+20)What is the Use Of Runnable Interface?
+21)What is Hashing?
+22)How You can create SpringbootApplication?
+23)What is @Entity?
+24)What difference between @Controller and @RestController?
+25)What is Spring MVC FLOW?
+26)What is thymeleaf?
+27)How you add third party Libraries?
+28)Method Overloading and Overiding?
+29)Types Of Scopes
+30)What is setter and Constructor Injection?
+31)What is difference between HashMap and Concurrent HashMap
+32)Can We delete Elements in HashMap?
+33)Can We Iterate Over HashMap?
+34)What is ng-bind?
+35)Volatile?
+
+18-06-2021
+==============
+1)What is the static keyword?
+2)what is constructor?
+3)Collections?
+4)What are types of Exception?
+5)What is Singleton design pattern?
+6)How we can create springboot project?
+7)How we run springboot app with command line?
+8)How we configure external server in spring boot?
+9)What is Difference between String Buffer and String Builder?
+10)What is transient keyword?
+11)Why we want to create private constructor?
+12)What we can delete middle element in arraylist without using length(),size
+13)What is HashMap?
+ 
+
+
+
+12-07-2021
+==============
+1)How to Write custom Exceptions in Java?
+2)What is volatile keyword in java?
+3)Difference between == and .equals() method?
+4)Difference between String vs StringBuffer vs StringBuilder?
+5)how we insert record if records already existing in table 20 records  how you incriment and insert using SQLScript?
+6)In Which situation we use abstarct class and which situation we use interface?
+7)Differnce between abstarct class and Interface?
+8)Where Did you use abstract class and Interface?
+9)How to compare two objects?
+10)Hibernate
+11)How to write JPQL query?
+12)How to Write JOINS in JPQL
+
+
+
+29-09-2021 (Capjemini)
+=========================
+1)What is Encapsulation?
+2)What is Method overriding?
+3)What is Comparable and Comparator?
+4)What is Thread Safe?
+5)What is difference between string ,string buffer?
+6)What is Syncronized HashMap and Concurrent HashMap?
+8)Features of Java8?
+9)What is Functional Interface?
+10)What is Lambda Expression?
+11)What is polymorohism?
+12)What is Singleton class?
+13)What is Spring Life cycle?
+14)What is Scope ?
+15)What syntax to create Map?
+16)How we can create class as immutable class?
+17)Example of sigleton?
+18)scopes in spring?
+19)What is Natural sorting order and custom sorting order?
+20)Stream API?
+21)difference between List and set?
+22)what is spring mvc flow?
+23)How to connect springboot app to angular?
+24)What is services in Angular?
+25)What is Observable in Angular?
+26)What is HttpClient?
+27)Types of Forms?
+28)Life cycle Hooks and implentation?
+29)Directives?
+30) let ,var ,const difference?
+31)Promises?
+32)subscribe?
+33)How to iterate backend data to the view?
+34)How to handle errors in Angular?
+35)Permissions in Angular?
+36)@Component decorator?
+37)What are the annotations are available In service.ts ?
+38)What is two way data binding?
+39)syntax of ngmodel ?
+40)What is component Interaction?
+41)What is event binding?
+42)What are the elements are available in @Ngmodule ?
+43)What is serilazation?
+44)What to write custom serilization?
+45)How to compare to objects ?
+46)What is difference between compare and compareTo ?
+
+
+
+
+
+
+
+
